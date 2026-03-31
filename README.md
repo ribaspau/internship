@@ -1,6 +1,6 @@
 # internship
 
-Basic commands of Git
+Git for begginers
 
 
 
@@ -19,6 +19,4 @@ notepad README.md
 git add .
 
 git commit -m Title of commit
-
-
 
