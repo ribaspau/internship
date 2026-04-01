@@ -11,6 +11,9 @@ def calculator(numberOne, numberTwo, operation):
         
     elif operation == "*":
         solved = numberOne * numberTwo
+    
+    elif operation == "**":
+        solved = numberOne ** numberTwo
 
     else:
         print("Wrong operator")
