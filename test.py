@@ -14,6 +14,9 @@ class TestCalculator(unittest.TestCase):
 
     def test_Multiplication(self):
         self.assertEqual(calculator(3,2,"*"),6)
+
+    def test_Multiplication(self):
+        self.assertEqual(calculator(3,2,"**"),9)
     
 
 if __name__ == '__main__':
